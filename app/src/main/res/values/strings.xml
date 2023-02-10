@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Approval</string>
+    <string name="menu_draft">Menu Draft</string>
+    <string-array name="jenis_dokument">
+        <item name="Dokumen Izin Cuti"></item>
+        <item name="Dokumen Izin Sakit"></item>
+    </string-array>
+    <string name="menu_approval_draft">Menu Approval \nDraft</string>
+    <string name="menu_rekap_approval">Menu Rekap \nApproval</string>
+    <string name="menu_approval_dokumen">Menu Approval \nDokumen</string>
+    <string name="menu_edit_revisi">Edit Revisi</string>
+    <string name="menu_detail_draft">Detail Draft</string>
+    <string name="menu_detail_document">Detail Dokumen</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_approve">Terima</string>
+    <string name="btn_reject">Tolak</string>
+    <string name="btn_revisi">Request \nRevisi</string>
+
+    <string name="jenis_draft">Jenis Draft</string>
+    <string name="nama">Nama</string>
+    <string name="jabatan">Jabatan</string>
+    <string name="bagian">Bagian</string>
+    <string name="tanggal_izin">Tanggal Izin</string>
+    <string name="tanggal_selesai">Sampai</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="pic">PIC</string>
+    <string name="status">Status</string>
+    <string name="perbaikan">Perbaikan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

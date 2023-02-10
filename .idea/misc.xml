@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../Library/Android/sdk/platforms/android-33/data/res/layout/simple_spinner_item.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/drawable/approve.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/bg_1.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_2.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_filter_list.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_info.xml" value="0.117" />
+        <entry key="app/src/main/res/drawable/ic_medical_services.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/reject.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/revisi.xml" value="0.112" />
+        <entry key="app/src/main/res/drawable/tab_layout_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/tab_selected_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_detail_doc.xml" value="0.259330395684726" />
+        <entry key="app/src/main/res/layout/activity_detail_draft.xml" value="0.2056790074558123" />
+        <entry key="app/src/main/res/layout/activity_detail_rekap.xml" value="0.27273966471354166" />
+        <entry key="app/src/main/res/layout/activity_edit_revisi.xml" value="0.30228881835937504" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11759033203125002" />
+        <entry key="app/src/main/res/layout/activity_menu_approval_doc.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_menu_approval_draft.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_rekap_approval.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_revisi.xml" value="0.4109583536783854" />
+        <entry key="app/src/main/res/layout/edit_revisi_dialog.xml" value="0.17111593052960825" />
+        <entry key="app/src/main/res/layout/fragment_rekap_dokumen_approval.xml" value="0.2285473146300385" />
+        <entry key="app/src/main/res/layout/fragment_rekap_draft_approval.xml" value="0.2197521486144135" />
+        <entry key="app/src/main/res/layout/list_approval.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_rekap_approval.xml" value="0.3143372372642082" />
+        <entry key="app/src/main/res/layout/loading.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/loading_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/reject_dialog.xml" value="0.2517166137695313" />
+        <entry key="app/src/main/res/layout/revisi_dialog.xml" value="0.2693069458007813" />
+        <entry key="app/src/main/res/layout/success_dialog.xml" value="0.311083984375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
